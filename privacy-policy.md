@@ -18,18 +18,18 @@ WordTap does **not collect**, store, or transmit any **personally identifiable i
 
 ## 2. How We Use Information
 
-- **Offline Mode:** WordTap uses locally available data or resources for basic word processing (if any are bundled).
+- **Offline Mode:** WordTap uses locally available data or resources for basic word processing.
 - **Online Mode:** When internet is active, WordTap accesses publicly available dictionary/translation websites to extract relevant definitions or translations for the tapped word.
 
 The tapped word is used **temporarily** to request information. It is not stored, logged, or shared with any third party.
 
 ---
 
-## 3. Third-Party Websites (Scraped Sources)
+## 3. Third-Party Websites 
 
 WordTap does not use official APIs or SDKs. Instead, it may:
-- Load content from public dictionary sites (e.g., Wiktionary, Cambridge, etc.)
-- Extract visible information from those pages (scraping)
+- Load content from public dictionary sites (e.g., Wiktionary, Cambridge, Google search etc.)
+- Extract visible information from those pages
 
 While WordTap does not share your data with these sites, accessing them means **your browser may connect** to them, subject to their own privacy policies and logging mechanisms.
 
@@ -61,4 +61,4 @@ We may revise this policy in the future. All updates will be posted at the offic
 
 If you have any questions about this privacy policy, please contact:
 
-📧 **Email:** [your.email@example.com] (replace this with your actual contact email)
+📧 **Email:** poran.cse@gmail.com
